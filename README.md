@@ -1,5 +1,5 @@
-# Cyber Security Internship – Task 4: Windows Firewall Setup
 
+# Windows Firewall Configuration
 ## Objective
 Configure Windows Firewall to block inbound traffic on Telnet (port 23), verify the block using PowerShell, and then disable the rule.
 
